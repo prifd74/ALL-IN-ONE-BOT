@@ -2,11 +2,11 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://RTX:pokemon@cluster0.na7n4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": true,
+        "hentai": false,
         "troll": true,
         "levelling" : true,
         "lavalink" : true,
@@ -30,13 +30,13 @@
     },
      "lavalink": {
         "lavalink": {
-            "identifier": "INZEWORLD.COM (DE)",
-            "password": "saher.inzeworld.com",
-            "host": "lava.inzeworld.com",
-            "port": 3128,
-            "secure": false
-          }
-    }, 
+        "identifier": "GlaceYT",
+        "password": "enteryourcustompass",
+        "host": "180.188.226.76",
+        "port":  7019,
+        "secure": false
+      }
+   }, 
     "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
     "spotifyClientSecret": "199a619d22dd4e55a4a2c1a7a3d70e63"
 }
