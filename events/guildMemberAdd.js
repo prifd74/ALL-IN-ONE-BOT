@@ -91,7 +91,7 @@ module.exports = async (client) => {
                     .setTimestamp();
                 
                 welcomeChannel.send({
-                    content: `Hey ${member}!`,
+                    content: `Hey ${member}! Check out <#1351567245901566032>`,
                     embeds: [embed],
                     files: [attachment]
                 });                
